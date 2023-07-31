@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "https://seheeeeee.github.io/timetimerPWA/static/css/main.073c9b0a.css",
-    "main.js": "https://seheeeeee.github.io/timetimerPWA/static/js/main.3650aa3c.js",
+    "main.css": "https://seheeeeee.github.io/timetimerPWA/static/css/main.bfd0d1f5.css",
+    "main.js": "https://seheeeeee.github.io/timetimerPWA/static/js/main.7021a541.js",
     "static/js/787.46365da6.chunk.js": "https://seheeeeee.github.io/timetimerPWA/static/js/787.46365da6.chunk.js",
     "service-worker.js": "https://seheeeeee.github.io/timetimerPWA/service-worker.js",
-    "static/media/logo.svg": "https://seheeeeee.github.io/timetimerPWA/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "https://seheeeeee.github.io/timetimerPWA/index.html",
-    "main.073c9b0a.css.map": "https://seheeeeee.github.io/timetimerPWA/static/css/main.073c9b0a.css.map",
-    "main.3650aa3c.js.map": "https://seheeeeee.github.io/timetimerPWA/static/js/main.3650aa3c.js.map",
+    "main.bfd0d1f5.css.map": "https://seheeeeee.github.io/timetimerPWA/static/css/main.bfd0d1f5.css.map",
+    "main.7021a541.js.map": "https://seheeeeee.github.io/timetimerPWA/static/js/main.7021a541.js.map",
     "787.46365da6.chunk.js.map": "https://seheeeeee.github.io/timetimerPWA/static/js/787.46365da6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3650aa3c.js"
+    "static/css/main.bfd0d1f5.css",
+    "static/js/main.7021a541.js"
   ]
 }
